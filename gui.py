@@ -1,5 +1,4 @@
 import RPi.GPIO as GPIO
-import time 
 from tkinter import *
 GPIO.setwarnings(False)
 GPIO.setmode(GPIO.BOARD)
